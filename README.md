@@ -1,5 +1,3 @@
-
-Kelompok1PACapstoneDBMSxASD
 # Kelompok1PACapstoneDBMSxASD
 ## **Project Akhir (PA) Capstone Praktikum Database Management System & Algoritma Struktur Data (Kelompok 1)**
 
