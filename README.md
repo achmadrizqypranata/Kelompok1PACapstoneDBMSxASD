@@ -16,14 +16,4 @@
 **-  Rizal Paskah Anugrah
    (2309116093)**
 
-## **Deskripsi Program**
-
-## **Flowchart**
-
-## **Struktur Project**
-
-## **Fitur**
-
-## **Fungsionalitas**
-
-## **Cara Penggunaan**
+## **Repository berpindah ke https://github.com/PA-B23-KELOMPOK1/PA-B23-KELOMPOK1**
